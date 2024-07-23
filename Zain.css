@@ -57,3 +57,51 @@
     font-style: normal;
     font-display: swap;
 }
+
+.Zain {
+    font-family: "Zain";
+}
+.Zain400 {
+    font-family: "Zain-normal";
+    font-weight: 400;
+}
+.Zain700 {
+    font-family: "Zain-bold";
+    font-weight: 700;
+}
+.Zainrelative {
+    font-family: "Zain-bolder";
+    font-weight: relative;
+}
+.Zainrelative {
+    font-family: "Zain-lighter";
+    font-weight: relative;
+}
+.Zain100 {
+    font-family: "Zain-thin";
+    font-weight: 100;
+}
+.Zain200 {
+    font-family: "Zain-extra light";
+    font-weight: 200;
+}
+.Zain300 {
+    font-family: "Zain-light";
+    font-weight: 300;
+}
+.Zain500 {
+    font-family: "Zain-medium";
+    font-weight: 500;
+}
+.Zain600 {
+    font-family: "Zain-semi bold";
+    font-weight: 600;
+}
+.Zain800 {
+    font-family: "Zain-extra bold";
+    font-weight: 800;
+}
+.Zain900 {
+    font-family: "Zain-black";
+    font-weight: 900;
+}
